@@ -1,5 +1,3 @@
-
-https://github.com/DorMor1999/assinment-4-3D/assets/89539078/783670b1-6a06-4f9f-a1d3-98086db70a4f
 # Computer Graphics - Homework 4 Submission
 
 ## Project Overview
@@ -25,7 +23,7 @@ Below are example outputs of the program showcasing different configurations of 
 
 ### Video Sample
 - **Sample Video**
-  - Uploading First Example 2024-06-14 23-48-57.mp4…
+  - [Uploading First Example 2024-06-14 23-48-57.mp4…](https://github.com/DorMor1999/assinment-4-3D/assets/89539078/783670b1-6a06-4f9f-a1d3-98086db70a4f)
 
 ## Conclusion
 This project demonstrates an interactive approach to designing a house with customizable parameters. The dynamic lighting effects add a level of realism to the rendered house, making it a comprehensive tool for visualizing different architectural configurations.
